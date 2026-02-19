@@ -1,5 +1,6 @@
 **/*_cl.h
 **/generated_kernels/*
+.cache/
 .idea
 build*
 cmake-build*
